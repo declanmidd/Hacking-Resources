@@ -20,7 +20,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-#### 1. Getting Started with Ethical Hacking
+## 1. Getting Started with Ethical Hacking
 
 - **[What is Ethical Hacking? A Beginner's Guide](https://www.simplilearn.com/tutorials/ethical-hacking-tutorial/what-is-ethical-hacking)**  
   Learn the fundamentals of ethical hacking, its purpose, and its benefits.
@@ -39,7 +39,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-#### 2. Programming Languages for Hackers
+## 2. Programming Languages for Hackers
 
 - **[Python Crash Course for Ethical Hackers](https://www.udemy.com/course/python-for-ethical-hacking/)**  
   A beginner-friendly Python course tailored for cybersecurity enthusiasts.
@@ -58,7 +58,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 3. Web Hacking Resources
+## 3. Web Hacking Resources
 
 - **[PortSwigger Web Security Academy](https://portswigger.net/web-security)**  
   Free interactive labs for learning web application security concepts like XSS, SQL Injection, CSRF, etc.
@@ -77,7 +77,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 4. Operating Systems for Ethical Hacking
+## 4. Operating Systems for Ethical Hacking
 
 - **[Kali Linux - Offensive Security Distro](https://www.kali.org/)**  
   The most popular Linux distribution for penetration testing.
@@ -93,7 +93,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 5. Ethical Hacking Tools
+## 5. Ethical Hacking Tools
 
 - **[Nmap - Network Mapper](https://nmap.org/)**  
   A powerful tool for network discovery and security auditing.
@@ -112,9 +112,9 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 6. Fields of Development
+## 6. Fields of Development
 
-#### Web Development Resources
+### Web Development Resources
 
 - **[MDN Web Docs](https://developer.mozilla.org/)**  
   Excellent resource for HTML, CSS, and JavaScript documentation.
@@ -125,7 +125,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 - **[Frontend Mentor](https://www.frontendmentor.io/)**  
   Real-world front-end challenges to improve skills.
 
-#### Mobile Development Resources
+### Mobile Development Resources
 
 - **[Android Developer](https://developer.android.com/)**  
   Official resource for building Android applications.
@@ -136,7 +136,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 - **[Flutter](https://flutter.dev/)**  
   Google's framework for building natively compiled applications.
 
-#### Game Development Resources
+### Game Development Resources
 
 - **[Unity](https://unity.com/)**  
   A widely-used game development platform.
@@ -149,9 +149,9 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 7. Resources for Coding Fields
+## 7. Resources for Coding Fields
 
-#### Programming & Computer Science
+### Programming & Computer Science
 
 - **[CS50 - Harvard’s Intro to Computer Science](https://cs50.harvard.edu/)**  
   Free course on introductory computer science.
@@ -162,7 +162,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 - **[Exercism.io](https://exercism.io/)**  
   Open-source platform offering programming language tracks.
 
-#### Fields of Coding
+### Fields of Coding
 
 1. **Web Development**: [The Odin Project](https://www.theodinproject.com/)
 2. **Mobile Development**: [App Brewery - iOS & Android Development Courses](https://www.appbrewery.co/)
@@ -172,7 +172,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 8. CTFs (Capture the Flag) & Practice Platforms
+## 8. CTFs (Capture the Flag) & Practice Platforms
 
 - **[Hack The Box](https://www.hackthebox.eu/)**  
   Popular platform for penetration testers and ethical hackers.
