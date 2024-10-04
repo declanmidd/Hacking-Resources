@@ -123,10 +123,6 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-Certainly! Here's a tidied-up version of the tools list with categories and proper separation:
-
----
-
 ### **Web Application Security Testing Tools**
 
 1. **Burp Suite**  
