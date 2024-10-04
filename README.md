@@ -1,4 +1,4 @@
-# Awesome Hacking Resources
+# Declan's Hacking Resources
 
 A curated collection of ethical hacking and cybersecurity resources for beginners and enthusiasts.
 
