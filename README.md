@@ -20,7 +20,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 1. Getting Started with Ethical Hacking
+#### 1. Getting Started with Ethical Hacking
 
 - **[What is Ethical Hacking? A Beginner's Guide](https://www.simplilearn.com/tutorials/ethical-hacking-tutorial/what-is-ethical-hacking)**  
   Learn the fundamentals of ethical hacking, its purpose, and its benefits.
@@ -39,7 +39,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-### 2. Programming Languages for Hackers
+#### 2. Programming Languages for Hackers
 
 - **[Python Crash Course for Ethical Hackers](https://www.udemy.com/course/python-for-ethical-hacking/)**  
   A beginner-friendly Python course tailored for cybersecurity enthusiasts.
