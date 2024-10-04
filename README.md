@@ -6,21 +6,19 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ## Table of Contents
 
-1. [Getting Started with Ethical Hacking](#getting-started-with-ethical-hacking)
-2. [Programming Languages for Hackers](#programming-languages-for-hackers)
-3. [Web Hacking Resources](#web-hacking-resources)
-4. [Operating Systems for Ethical Hacking](#operating-systems-for-ethical-hacking)
-5. [Ethical Hacking Tools](#ethical-hacking-tools)
-6. [Fields of Development](#fields-of-development)
-   - [Web Development Resources](#web-development-resources)
-   - [Mobile Development Resources](#mobile-development-resources)
-   - [Game Development Resources](#game-development-resources)
-7. [Resources for Coding Fields](#resources-for-coding-fields)
-8. [CTFs (Capture the Flag) & Practice Platforms](#ctfs-capture-the-flag--practice-platforms)
+- [Getting Started with Ethical Hacking](#getting-started-with-ethical-hacking)
+- [Programming Languages for Hackers](#programming-languages-for-hackers)
+- [Web Hacking Resources](#web-hacking-resources)
+- [Operating Systems for Ethical Hacking](#operating-systems-for-ethical-hacking)
+- [Ethical Hacking Tools](#ethical-hacking-tools)
+- [Common Vulnerabilities](#common-vulnerabilities)
+- [Common Tools for Web Hacking](#common-tools-for-web-hacking)
+- [Fields of Development](#fields-of-development)
+- [CTFs (Capture the Flag) & Practice Platforms](#ctfs-capture-the-flag--practice-platforms)
 
 ---
 
-## 1. Getting Started with Ethical Hacking
+## Getting Started with Ethical Hacking
 
 - **[What is Ethical Hacking? A Beginner's Guide](https://www.simplilearn.com/tutorials/ethical-hacking-tutorial/what-is-ethical-hacking)**  
   Learn the fundamentals of ethical hacking, its purpose, and its benefits.
@@ -39,7 +37,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## 2. Programming Languages for Hackers
+## Programming Languages for Hackers
 
 - **[Python Crash Course for Ethical Hackers](https://www.udemy.com/course/python-for-ethical-hacking/)**  
   A beginner-friendly Python course tailored for cybersecurity enthusiasts.
@@ -58,7 +56,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## 3. Web Hacking Resources
+## Web Hacking Resources
 
 - **[PortSwigger Web Security Academy](https://portswigger.net/web-security)**  
   Free interactive labs for learning web application security concepts like XSS, SQL Injection, CSRF, etc.
@@ -77,7 +75,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## 4. Operating Systems for Ethical Hacking
+## Operating Systems for Ethical Hacking
 
 - **[Kali Linux - Offensive Security Distro](https://www.kali.org/)**  
   The most popular Linux distribution for penetration testing.
@@ -93,9 +91,9 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## 5. Ethical Hacking Tools
+## Ethical Hacking Tools
 
-- **[Nmap - Network Mapper](https://nmap.org/)**  
+- **[Nmap](https://nmap.org/)**  
   A powerful tool for network discovery and security auditing.
 
 - **[Metasploit Framework](https://www.metasploit.com/)**  
@@ -112,7 +110,75 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## 6. Fields of Development
+## Common Vulnerabilities
+
+- **Cross-Site Scripting (XSS)**:  
+  An attack that injects malicious scripts into trusted websites.
+
+- **SQL Injection**:  
+  A code injection technique that exploits a security vulnerability in an application's software.
+
+- **Cross-Site Request Forgery (CSRF)**:  
+  An attack that tricks the user into executing unwanted actions on a different website.
+
+---
+
+## Common Tools for Web Hacking
+
+1. **Burp Suite**
+2. **OWASP ZAP**
+3. **Nessus**
+4. **Acunetix**
+5. **Nikto**
+6. **SQLMap**
+7. **Metasploit**
+8. **Postman**
+9. **Fiddler**
+10. **cURL**
+11. **W3af**
+12. **Burp Collaborator**
+13. **DirBuster**
+14. **JoomScan**
+15. **WPScan**
+16. **XSSer**
+17. **Hping3**
+18. **Recon-ng**
+19. **Shodan**
+20. **Netcat**
+21. **Sublist3r**
+22. **TheHarvester**
+23. **Gobuster**
+24. **WhatWeb**
+25. **FuzzDB**
+26. **Fuzzing Tools (e.g., Peach Fuzzer)**
+27. **SSLScan**
+28. **RIPS**
+29. **Golismero**
+30. **XSS-Payloads**
+31. **SIPVicious**
+32. **Damn Vulnerable Web Application (DVWA)**
+33. **WebGoat**
+34. **Hackazon**
+35. **Juice Shop**
+36. **PayloadsAllTheThings**
+37. **Can I Hack It?**
+38. **Wfuzz**
+39. **Tawkwon-Do**
+40. **Sqli Dumper**
+41. **Wappalyzer**
+42. **JsFuzz**
+43. **Web Vulnerability Scanner**
+44. **Ffuf**
+45. **Selenium**
+46. **Aircrack-ng**
+47. **Beef**
+48. **WebVulnTest**
+49. **BlackWidow**
+50. **Arachni**
+
+---
+
+## Fields of Development
 
 ### Web Development Resources
 
@@ -149,30 +215,7 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## 7. Resources for Coding Fields
-
-### Programming & Computer Science
-
-- **[CS50 - Harvard’s Intro to Computer Science](https://cs50.harvard.edu/)**  
-  Free course on introductory computer science.
-
-- **[Codecademy](https://www.codecademy.com/)**  
-  Offers coding classes in multiple languages.
-
-- **[Exercism.io](https://exercism.io/)**  
-  Open-source platform offering programming language tracks.
-
-### Fields of Coding
-
-1. **Web Development**: [The Odin Project](https://www.theodinproject.com/)
-2. **Mobile Development**: [App Brewery - iOS & Android Development Courses](https://www.appbrewery.co/)
-3. **Game Development**: [GameDev.net](https://www.gamedev.net/)
-4. **DevOps/Automation**: [Kubernetes.io](https://kubernetes.io/)
-5. **Cybersecurity & Ethical Hacking**: [Exploit-DB](https://www.exploit-db.com/)
-
----
-
-## 8. CTFs (Capture the Flag) & Practice Platforms
+## CTFs (Capture the Flag) & Practice Platforms
 
 - **[Hack The Box](https://www.hackthebox.eu/)**  
   Popular platform for penetration testers and ethical hackers.
