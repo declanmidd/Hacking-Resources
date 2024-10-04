@@ -123,58 +123,96 @@ A curated collection of ethical hacking and cybersecurity resources for beginner
 
 ---
 
-## Common Tools for Web Hacking
+Certainly! Here's a tidied-up version of the tools list with categories and proper separation:
 
-1. **Burp Suite**
-2. **OWASP ZAP**
-3. **Nessus**
-4. **Acunetix**
-5. **Nikto**
-6. **SQLMap**
-7. **Metasploit**
-8. **Postman**
-9. **Fiddler**
-10. **cURL**
-11. **W3af**
-12. **Burp Collaborator**
-13. **DirBuster**
-14. **JoomScan**
-15. **WPScan**
-16. **XSSer**
-17. **Hping3**
-18. **Recon-ng**
-19. **Shodan**
-20. **Netcat**
-21. **Sublist3r**
-22. **TheHarvester**
-23. **Gobuster**
-24. **WhatWeb**
-25. **FuzzDB**
-26. **Fuzzing Tools (e.g., Peach Fuzzer)**
-27. **SSLScan**
-28. **RIPS**
-29. **Golismero**
-30. **XSS-Payloads**
-31. **SIPVicious**
-32. **Damn Vulnerable Web Application (DVWA)**
-33. **WebGoat**
-34. **Hackazon**
-35. **Juice Shop**
-36. **PayloadsAllTheThings**
-37. **Can I Hack It?**
-38. **Wfuzz**
-39. **Tawkwon-Do**
-40. **Sqli Dumper**
-41. **Wappalyzer**
-42. **JsFuzz**
-43. **Web Vulnerability Scanner**
-44. **Ffuf**
-45. **Selenium**
-46. **Aircrack-ng**
-47. **Beef**
-48. **WebVulnTest**
-49. **BlackWidow**
-50. **Arachni**
+---
+
+### **Web Application Security Testing Tools**
+
+1. **Burp Suite**  
+2. **OWASP ZAP**  
+3. **Acunetix**  
+4. **Nikto**  
+5. **W3af**  
+6. **Burp Collaborator**  
+7. **JoomScan**  
+8. **WPScan**  
+9. **XSSer**  
+10. **RIPS**  
+11. **Golismero**  
+12. **WebGoat**  
+13. **Hackazon**  
+14. **Juice Shop**  
+15. **Sqli Dumper**  
+16. **Web Vulnerability Scanner**  
+17. **Ffuf**  
+18. **Fuzzing Tools (e.g., Peach Fuzzer)**  
+19. **XSS-Payloads**  
+20. **Wfuzz**  
+21. **FuzzDB**  
+22. **DirBuster**  
+23. **Gobuster**  
+24. **WhatWeb**  
+25. **Wappalyzer**  
+26. **JsFuzz**  
+
+---
+
+### **Penetration Testing Frameworks**
+
+1. **Metasploit**  
+2. **SQLMap**  
+3. **Postman**  
+4. **Netcat**  
+5. **Hping3**  
+6. **SIPVicious**  
+7. **Recon-ng**  
+
+---
+
+### **Network Scanning & Information Gathering**
+
+1. **Nessus**  
+2. **Shodan**  
+3. **Sublist3r**  
+4. **TheHarvester**  
+5. **SSLScan**  
+6. **Selenium**  
+
+---
+
+### **Proxy and Intercepting Tools**
+
+1. **Burp Suite**  
+2. **OWASP ZAP**  
+3. **Fiddler**  
+4. **cURL**  
+5. **Tawkwon-Do**  
+
+---
+
+### **Exploitation Tools**
+
+1. **PayloadsAllTheThings**  
+2. **Can I Hack It?**  
+
+---
+
+### **Vulnerability Testing and Exploit Development**
+
+1. **Wfuzz**  
+2. **Hping3**  
+3. **XSS-Payloads**  
+4. **JsFuzz**  
+
+---
+
+### **Additional Tools**
+
+1. **DirBuster**  
+2. **Gobuster**  
+3. **Recon-ng**  
+4. **Sublist3r**  
 
 ---
 
